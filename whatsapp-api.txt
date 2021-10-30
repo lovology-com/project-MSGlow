@@ -1,0 +1,5 @@
+https://api.whatsapp.com/send?phone=6281334567742&text=Salam%20Bahagia,%0AHi%20Admin....%0Amohon%20info%20tentang%20Lovology.%20Terimakasih
+
+https://bit.ly/LovologyProject
+
+
