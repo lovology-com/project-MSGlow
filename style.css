@@ -28,8 +28,8 @@ body {
     display: flex;
     justify-content: center;
 }
-.cntnr1 img {
-    margin-bottom: 20px;
+/* .cntnr1 img {
+    margin-bottom: 20px; */
 }
 .cntnr2 {
     margin: 40px auto;
