@@ -28,9 +28,14 @@ body {
     display: flex;
     justify-content: center;
 }
-/* .cntnr1 img {
-    margin-bottom: 20px; */
+
+.cntnr1 img {
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
 }
+
 .cntnr2 {
     margin: 40px auto;
     max-width: 900px;
